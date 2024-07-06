@@ -15,3 +15,7 @@ Output should be in the following format:
 3. Write a program with a class weight and data members kg and grams. The class includes a default constructor which assigns 0 to each value by default and a parameterized constructor to initialize members with arguments. Use a pointer to the object concept to do so. Also, it has another function that adds two different weights and stores them in another object. Finally, display the sum of weights through a function using a pointer to the object concept.
 4. Write a program to show the concept of this pointer.
 5. Write a program to show the concept of dynamic constructor.
+
+
+    <img src="lab5.jpg">
+    </img>
