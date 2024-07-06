@@ -1,4 +1,4 @@
-# Topic : Objects nad Class II (Constructor and Destructor)
+# Topic : Objects nad Class III (Constructor and Destructor)
 ## Post Date 2081-03-21
 
 # Questions
