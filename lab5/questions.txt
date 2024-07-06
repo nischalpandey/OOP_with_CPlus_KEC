@@ -1,0 +1,37 @@
+
+Lab 5- Objects and Classes III
+1. Write a program to show the implicit and explicit copy constructor concept.
+2. Write a program to input details of 5 students. The details include the name, address, and marks of five subjects. Your program should contain a function to read the details of students and another function to display details of those students. Also, display the highest total marks.
+Output should be in the following format:
+enter data for student1 : enter name, rollno and addressritu 45 kathmandu enter marks for 5 subjects12 34 56 78 34
+enter data for student2: enter name, rollno and addressravi 46 dhulikhel enter marks for 5 subjects34 56 78 12 34
+enter data for student3: enter name, rollno and addresssita 47 basantpur enter marks for 5 subjects34 23 12 56 78
+The details of students are
+S.N
+1
+Name Address ritu kathmandu 45
+Roll.No ООР
+Maths ECM
+DL EDC Total
+12
+34
+56
+78 34 214
+2
+ravi dhulikhel
+46
+34
+56
+78
+12
+36 216
+3 sita basantpur
+47
+34
+23
+12
+56 78 203
+Higest marks:216
+3. Write a program with a class weight and data members kg and grams. The class includes a default constructor which assigns 0 to each value by default and a parameterized constructor to initialize members with arguments. Use a pointer to the object concept to do so. Also, it has another function that adds two different weights and stores them in another object. Finally, display the sum of weights through a function using a pointer to the object concept.
+4. Write a program to show the concept of this pointer.
+5. Write a program to show the concept of dynamic constructor.

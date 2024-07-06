@@ -1,0 +1,11 @@
+
+Lab 4- Objects and Classes II
+1. Write a program to add and subtract two-time objects of class type Time. Your program should contain hr, min, and sec as class data members, void setdata() to set data and respective functions to retrieve data; Time add(Time, Time) and Time subtract(Time, Time) to add and subtract respectively. Use another function to display data.
+2. Write a program to show the working order of different constructors and destructors. 
+3. In question no. 1, use the constructor to initialize all data members of Time and add and subtract two-time objects using the necessary functions. If no argument is provided then the members should be initialized to 0.
+4. Initiate the working of the constructor with the default argument.
+5. Write a program to add two distance objects with members' feet and inches using the concept of passing objects as an argument to function.
+6. Construct
+a class named "Animal" with data and methods as follows: Data: name, id_number, cost
+Methods: void setdata(char, int, float); and void showdata();
+Create two different objects of type "Animal". Use the method setdata (...) to set the data members' value and use the method showdata) to display them. Illustrate the use of different access specifiers in this program.
