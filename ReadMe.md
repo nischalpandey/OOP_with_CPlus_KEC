@@ -1,2 +1,2 @@
 # OOP Concepts with C++
-## These are some problems done in oop lab
+## These are some problems done in oop labs
