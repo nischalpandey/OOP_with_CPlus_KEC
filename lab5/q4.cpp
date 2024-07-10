@@ -47,3 +47,8 @@ int main(){
 
     return 0;
 }
+
+// Output:
+// Address of w1 obj: 0x61fe00
+// Address of w2 obj: 0x61fdf0
+// Total weight is: 9 kg and 250 grams

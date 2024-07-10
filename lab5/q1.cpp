@@ -57,3 +57,13 @@ getch();
     return 0;
 }
 
+// Output:
+
+/* 
+
+------------------------
+ Hello from implicit call
+ ------------------------
+ Hello from explicit
+
+*/

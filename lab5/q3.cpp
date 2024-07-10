@@ -48,3 +48,6 @@ int main(){
 getch();
     return 0;
 }
+
+// Output: Total weight is: 9 kg and 250 grams
+

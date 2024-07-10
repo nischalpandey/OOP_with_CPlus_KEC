@@ -53,4 +53,9 @@ int main(){
 
     return 0;
 }
-// Output: Total weight is: 8 kg and 1250 grams
+
+// Output:
+// Total weight is: 9 kg and 250 grams
+// Destructor called
+
+
