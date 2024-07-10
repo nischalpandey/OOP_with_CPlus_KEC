@@ -1,6 +1,10 @@
 .vscode
 
 *.exe
+# Ignore all exe files in all directories
+**/*.exe
+lab4/
+
 
 
 
