@@ -2,7 +2,7 @@
 #include <conio.h>
 using namespace std;
 
-int highestmarks = 0; // Corrected spelling
+int highestmarks = 0; 
 
 string subs[5] = {"OOP", "Math", "ECM", "DL", "EDC"};
 
