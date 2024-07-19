@@ -1,0 +1,6 @@
+
+Lab7- Operator Overloading
+1. WAP to overload pre-increment and post-increment operators.
+2. WAP to compare two complex numbers (<,>==,!=) using operator overloading. 3. WAP to add two time objects using operator overloading using non member function. 4. WAP to concatenate two strings using operator overloading.
+5. WAP to overload []operator to display respective array element.
+6. Create a class named City that will have two member variables CityName(chart[20]) and DistFromKtm(float). Add member functions to set and retrieve the CityName and DistFromKtm separately. Add operator overloading to find the distance between the cities (just find the difference of DistFromKtm) and sum of distance of those cities from Kathmandu. In the main function, initialize three city objects. Set the first and second city to be Pokhara and Dhangadi. Display the sum of DistFromKtm of pokhara and Dhangadi and distance between Pokhara and Dhangadi.
