@@ -1,0 +1,8 @@
+
+Lab 9- Inheritance
+1. Create a class named person with member- name, address, setdata() and display() and derive a class named Engineer with members faculty, license_number and display(). Make your program meaningful.
+2. In ques. 1, add class named Doctor (derived from class Person) with members area, NMC_number and display(). Make your program meaningful.
+3. Create a class named Employee (name, address, input() and display()) and class named Teacher (subjecttaught, post, input() and display()). Derive a class YearCoordinator(year, faculty, input() and display()) from Employee and Teacher.
+4. Create a class named Course (coursename, studentname, and input()). Then, create class named Engineering (collegename, totalseats and input()) derived from course and another class named BEI(totalsubjects, input() and display()) derived from Engineering.
+5. From ques.2, add another class named learner (hobby, age, input(), and display()). 6. WAP to show the execution of default and parameterized constructors in multiple inheritance.
+7. WAP that is used to show the execution of a constructor in multilevel inheritance.
